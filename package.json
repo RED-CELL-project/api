@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/RED-CELL-project/api/issues"
   },
-  "homepage": "https://github.com/RED-CELL-project/api#readme"
+  "homepage": "https://github.com/RED-CELL-project/api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
