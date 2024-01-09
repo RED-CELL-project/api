@@ -1,0 +1,22 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "API du projet RED CELL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RED-CELL-project/api.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "RED CELL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RED-CELL-project/api/issues"
+  },
+  "homepage": "https://github.com/RED-CELL-project/api#readme"
+}
